@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from 'react';
-import '../HomePage.css'
+import './HomeCarousel.css'
 
 const HomeCarousel = () => {
     // const [postIndex, setPostIndex] = useState(0);
@@ -57,20 +57,20 @@ const HomeCarousel = () => {
 
     return (
         <>
-     <div className="homvideo-container">
-  <video
-    className="homvideo"
-    autoPlay
-    muted
-    loop
-    playsInline
-    src="/Carvideo.mp4"
-  ></video>
-</div>
+            <div className="homvideo-container">
+                <video
+                    className="homvideo"
+                    autoPlay
+                    muted
+                    loop
+                    playsInline
+                    src="/Carvideo.mp4"
+                ></video>
+            </div>
 
 
 
-             
+
         </>
         // <div className="homcarousel">
         // <div className="homprogress-bar homprogress-bar--primary homhide-on-desktop">

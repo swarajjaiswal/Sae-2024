@@ -31,7 +31,7 @@ const HomePage = () => {
      
           
           <div className="homheading">
-            <h1>SAENITD</h1>
+            <h1 className='font-bold'>SAENITD</h1>
             <TypeJs />
             {/* <p>We are the Society of Automotive Engineers Collegiate Club of National Institute of Technology Durgapur</p> */}
          
