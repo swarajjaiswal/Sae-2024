@@ -9,7 +9,7 @@ const HomeCarousel = () => {
       if (videoElement) {
         setTimeout(() => {
           videoElement.play();
-        }, 10);  // Small delay to ensure resources are loaded
+        }, 100);  // Small delay to ensure resources are loaded
       }
     }, []);
   
