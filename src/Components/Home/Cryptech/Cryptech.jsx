@@ -1,7 +1,6 @@
 import React, { Suspense, lazy } from 'react';
 import './Cryptech.css';
 
-// Lazy load ReactPlayer
 const ReactPlayer = lazy(() => import('react-player'));
 
 const Cryptech = () => {
@@ -13,8 +12,7 @@ const Cryptech = () => {
         </div>
       </section>
 
-      {/* Wrap ReactPlayer in Suspense */}
-      <Suspense fallback={<div>Loading video...</div>}>
+      <Suspense fallback={<></>}>
         <section className="homvid">
           <div className="homvideo-container1">
             <ReactPlayer
@@ -28,7 +26,7 @@ const Cryptech = () => {
         </section>
       </Suspense>
 
-      {/* Slider section with lazy-loaded iframes */}
+
       <section>
         <div className="homslider-container">
           <div className="homslider">
@@ -43,7 +41,7 @@ const Cryptech = () => {
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"
                   allowFullScreen
-                  loading="lazy" // Lazy load iframe
+                  loading="lazy"
                 />
               </div>
               <div className="homslide">
@@ -69,7 +67,7 @@ const Cryptech = () => {
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"
                   allowFullScreen
-                  loading="lazy" 
+                  loading="lazy"
                 />
               </div>
               <div className="homslide">
@@ -96,7 +94,7 @@ const Cryptech = () => {
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"
                   allowFullScreen
-                  loading="lazy" 
+                  loading="lazy"
                 />
               </div>
               <div className="homslide">
@@ -109,7 +107,7 @@ const Cryptech = () => {
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"
                   allowFullScreen
-                  loading="lazy" 
+                  loading="lazy"
                 />
               </div>
               <div className="homslide">
@@ -135,7 +133,7 @@ const Cryptech = () => {
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"
                   allowFullScreen
-                  loading="lazy" 
+                  loading="lazy"
                 />
               </div>
               <div className="homslide">
@@ -148,7 +146,7 @@ const Cryptech = () => {
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"
                   allowFullScreen
-                  loading="lazy" 
+                  loading="lazy"
                 />
               </div>
             </div>
