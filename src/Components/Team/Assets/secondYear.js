@@ -12,7 +12,7 @@ export const secondYear = [
         "url": require('../Assets/2ndYearImg/Sudeep Routray.jpg'),
         "name": "Sudeep Routray",
         "position": "Junior Coordinator",
-        "instaLink": "https://www.instagram.com/sudeepra4?r=nametag",
+        "instaLink": "https://www.instagram.com/sudeep_ra4?igsh=YWE2YnlzaWFsbjJ2",
         "linkedinLink": "https://www.linkedin.com/in/sudeep-kumar-routray-53a86527b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
 

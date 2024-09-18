@@ -10,7 +10,8 @@ body, html {
     position: relative;
     width: 100%;
     height: 100vh; 
-    background-image: url('./Aar2.JPG');
+    /* background-image: url('./Aar2.JPG'); */
+    background-image: url('./Aar2.webp');
     background-size: cover;
     background-position: center;
     overflow: hidden; 

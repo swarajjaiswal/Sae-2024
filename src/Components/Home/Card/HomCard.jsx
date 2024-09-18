@@ -18,7 +18,7 @@ const HomCard = () => {
   <img
     src="https://i.ibb.co/7j61wMw/aarohan.jpg"
     className="homcharacter-aar"
-    alt="Dark Rider Character"
+    alt="aar-img"
   />
 </div>
 
@@ -27,13 +27,13 @@ const HomCard = () => {
     <img
       src="https://github.com/Suke2004/Birthday-django-/blob/main/IMG-20240907-WA0000.jpg?raw=true"
       className="homcover-image-sdv"
-      alt="Force Mage Cover"
+      alt="sdv-img"
     />
   </div>
   <img
     src="https://github.com/Suke2004/Birthday-django-/blob/main/bot.png?raw=true"
     className="homcharacter"
-    alt="Force Mage Character"
+    alt="sdv-img"
   />
 </div>
 
@@ -42,14 +42,14 @@ const HomCard = () => {
     <img
       src="https://i.ibb.co/DYqwXcc/Whats-App-Image-2024-08-21-at-23-51-44-c685cd62.jpg"
       className="homcover-image-tedx"
-      alt="Force Mage Cover"
+      alt="tedx-img"
     />
   </div>
 
   <img
     src="https://i.ibb.co/XsGRTC5/Screenshot-2024-09-16-173234.png"
     className="homcharacter"
-    alt="Force Mage Character"
+    alt="tedx-img"
   />
 </div>
 

@@ -5,11 +5,11 @@ import Lottie from 'lottie-react';
 import { scroll, animate } from 'https://cdn.skypack.dev/motion@10.13.1';
 import './HomePage.css';
 import cloudAnimation from '../../Cloud.json';
-import engineAnimation from '../../Engine1.json';
+// import engineAnimation from '../../Engine1.json';
 
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import { motion } from 'framer-motion'
+// import { motion } from 'framer-motion'
 import TypeJs from './TypeJs/TypeJs';
 import FacultyAdvisors from './FacultyAdvisors/FacultyAdvisors';
 import HomeCarousel from './HomeCarousel/HomeCarousel'
