@@ -33,7 +33,7 @@ export const finalYear = [
     },
 
     {
-        "url": "https://live.staticflickr.com/65535/52770930094_b7af602a1a_n.jpg",
+        "url": require("./FinalYearImg/Dipesh Banerjee.jpg"),
         "name": "Dipesh Banerjee",
         "position": "Vice President",
         "instaLink": "https://www.instagram.com/dipesh.banerjee.9/?hl=en",
