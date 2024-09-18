@@ -9,7 +9,7 @@ const HomCard = () => {
 <div className="homcard-aar" data-aos="fade-right">
   <div className="homwrapper">
     <img
-      src="https://github.com/Suke2004/Birthday-django-/blob/main/aarohan_2.jpg?raw=true"
+      src="./aarhn.jpg"
       className="homcover-image-aarohan"
       alt="Aarohan"
     />
@@ -25,7 +25,7 @@ const HomCard = () => {
 <div className="homcard-sdv" data-aos="fade-up">
   <div className="homwrapper">
     <img
-      src="https://github.com/Suke2004/Birthday-django-/blob/main/IMG-20240907-WA0000.jpg?raw=true"
+      src="./SDV.jpg"
       className="homcover-image-sdv"
       alt="sdv-img"
     />
@@ -40,14 +40,14 @@ const HomCard = () => {
 <div className="homcard-tedx" data-aos="fade-left">
   <div className="homwrapper">
     <img
-      src="https://i.ibb.co/DYqwXcc/Whats-App-Image-2024-08-21-at-23-51-44-c685cd62.jpg"
+      src="./Tedx.png"
       className="homcover-image-tedx"
       alt="tedx-img"
     />
   </div>
 
   <img
-    src="https://i.ibb.co/XsGRTC5/Screenshot-2024-09-16-173234.png"
+    src="./Tedx1.png"
     className="homcharacter"
     alt="tedx-img"
   />

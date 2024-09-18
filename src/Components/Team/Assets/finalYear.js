@@ -2,7 +2,7 @@
 export const finalYear = [
 
     {
-        "url": "https://live.staticflickr.com/65535/52770258999_b285654e31_n.jpg",
+        "url": require("./FinalYearImg/Siddharth Khandelwal.jpg"),
         "name": "Siddharth Khandelwal",
         "position": "President",
         "instaLink": "https://www.instagram.com/siddharthkhandelwal7878/?hl=en",
@@ -17,7 +17,7 @@ export const finalYear = [
         "linkedinLink": "https://www.linkedin.com/in/atanu-bepari-64114826b/",
     },
     {
-        "url": "https://live.staticflickr.com/65535/52770140252_f6ff96412c_n.jpg",
+        "url": require("./FinalYearImg/Prince Raj.jpg"),
         "name": "Prince Raj",
         "position": "Joint Secretary",
         "instaLink": "https://www.google.com/search?q=www.instagrm.comcall_me_prince_62&oq=w",
@@ -63,21 +63,19 @@ export const finalYear = [
         "linkedinLink": "https://www.linkedin.com/in/liza-gupta-7a1ab5223/",
     },
     {
-        "url": "https://live.staticflickr.com/65535/52770159432_ee9bdfdbf0_n.jpg",
-        "name": "Prasant Sahu",
-        "position": "Head of Corporate Communications",
-        "instaLink": "https://www.instagram.com/prash_482/",
-        "linkedinLink": "https://www.linkedin.com/in/prasant-sahu-0b236923a",
+        "url": "https://live.staticflickr.com/65535/52771085605_0f5886ca1c_n.jpg",
+        "name": "Ambar",
+        "position": "BAJA Head",
+        "instaLink": "https://www.instagram.com/aforambar/",
+        "linkedinLink": "https://www.linkedin.com/in/ambar-b9863921a/",
     },
-
     {
-        "url": "https://live.staticflickr.com/65535/52771494781_6e0ca2e5c6_w.jpg",
-        "name": "Bireshwar Hansda",
-        "position": "Head of Operations",
-        "instaLink": "https://instagram.com/im_bireshwar?igshid=YmMyMTA2M2Y=",
-        "linkedinLink": "https://www.linkedin.com/in/bireshwar-hansda-a85a4a1b5/",
+        "url": "https://live.staticflickr.com/65535/52771163568_5dfab04825_w.jpg",
+        "name": "Sachin Patel",
+        "position": "Design Head",
+        "instaLink": "https://www.instagram.com/Sachinpat_el/",
+        "linkedinLink": "https://www.linkedin.com/in/sachin-patel-b643aa227",
     },
-
     {
         "url": "https://live.staticflickr.com/65535/52770704591_34e540d4f0_n.jpg",
         "name": "Prajnan Karmakar",
@@ -93,12 +91,13 @@ export const finalYear = [
         "instaLink": "https://instagram.com/biswa_410?igshid=YmMyMTA2M2Y=",
         "linkedinLink": " https://www.linkedin.com/in/biswajit-garai-41a454234",
     },
+  
     {
-        "url": "https://live.staticflickr.com/65535/52771085605_0f5886ca1c_n.jpg",
-        "name": "Ambar",
-        "position": "Baja Coordinator",
-        "instaLink": "https://www.instagram.com/aforambar/",
-        "linkedinLink": "https://www.linkedin.com/in/ambar-b9863921a/",
+        "url": "https://live.staticflickr.com/65535/52770159432_ee9bdfdbf0_n.jpg",
+        "name": "Prasant Sahu",
+        "position": "Head of Corporate Communications",
+        "instaLink": "https://www.instagram.com/prash_482/",
+        "linkedinLink": "https://www.linkedin.com/in/prasant-sahu-0b236923a",
     },
 
     {
@@ -122,13 +121,15 @@ export const finalYear = [
         "instaLink": "https://instagram.com/vyshnavi_jakku?igshid=YmMyMTA2M2Y=",
         "linkedinLink": "https://www.linkedin.com/in/vyshnavi-jakku-743237246/",
     },
+
     {
-        "url": "https://live.staticflickr.com/65535/52771163568_5dfab04825_w.jpg",
-        "name": "Sachin Patel",
-        "position": "Design Head",
-        "instaLink": "https://www.instagram.com/Sachinpat_el/",
-        "linkedinLink": "https://www.linkedin.com/in/sachin-patel-b643aa227",
+        "url": "https://live.staticflickr.com/65535/52771494781_6e0ca2e5c6_w.jpg",
+        "name": "Bireshwar Hansda",
+        "position": "Head of Operations",
+        "instaLink": "https://instagram.com/im_bireshwar?igshid=YmMyMTA2M2Y=",
+        "linkedinLink": "https://www.linkedin.com/in/bireshwar-hansda-a85a4a1b5/",
     },
+   
 
     {
         "url": "https://live.staticflickr.com/65535/52769439002_ab1b5da2e3_w.jpg",

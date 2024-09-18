@@ -56,7 +56,7 @@ function Navbar() {
         <div className="container mx-auto flex items-center justify-between">
    
           <Link to="/" className="flex items-center" onClick={() => window.scrollTo(0, 0)}>
-            <img src="https://sae-beige.vercel.app/static/media/Logo_final.b75cdbef4fed48981612.png" alt="Logo" className="h-12" />
+            <img src="./saelogo.png" alt="Logo" className="h-12" />
           </Link>
 
           <div className="hidden md:flex space-x-8">

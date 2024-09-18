@@ -4,7 +4,7 @@ import './FacultyAdvisors.css';
 const FacultyAdvisors = () => {
   const advisors = [
     {
-      name: "Prof. Niloptal Banerjee",
+      name: "Prof. Nilotpal Banerjee",
       department: "Department of Mechanical Engineering",
       imageClass: "homhi-photo-niloptal",
       aos: "fade-right",

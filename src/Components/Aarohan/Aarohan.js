@@ -39,32 +39,33 @@ function Aarohan() {
           data-bs-pause="false"
         >
           <div className="carousel-inner">
-            <div className="carousel-item active h-[300px] md:h-[690px]">
-              <img
-                src="https://images.pexels.com/photos/16070143/pexels-photo-16070143.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
-                className="d-block w-100 arhn-c-img"
-                alt="..."
-              />
-            </div>
-            <div className="carousel-item h-[300px] md:h-[690px]">
+          <div className="carousel-item h-[300px] md:h-[690px]">
               <img
                 src="./assets/IMG_4746.jpg"
                 className="d-block w-100 arhn-c-img"
-                alt="..."
+                alt="Aarohan"
               />
             </div>
+            <div className="carousel-item active h-[300px] md:h-[690px]">
+              <img
+                src="./Electra.jpg"
+                className="d-block w-100 arhn-c-img"
+                alt="Electra"
+              />
+            </div>
+           
             <div className="carousel-item h-[300px]  md:h-[690px]">
               <img
-                src="./assets/arhn11.jpg"
+                src="./CarAuction.jpg"
                 className="d-block w-100 arhn-c-img"
-                alt="..."
+                alt="CarAuction"
               />
             </div>
             <div className="carousel-item h-[300px] md:h-[690px]">
               <img
-                src="./assets/IMG-20240411-WA0075.jpg"
+                src="./DeathNote.png"
                 className="d-block w-100 arhn-c-img"
-                alt="..."
+                alt="DeathNote"
               />
             </div>
           </div>
@@ -99,8 +100,8 @@ function Aarohan() {
         <div className="  flex max-w-full flex-col  rounded-md  lg:flex-row mx-10 my-10 lg:mx-36 lg:my-28 lg:justify-between">
           <div className="h-full w-full lg:h-[400px] lg:w-[590px] ">
             <img
-              src="https://images.pexels.com/photos/16070201/pexels-photo-16070201.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=600&amp;lazy=load"
-              alt="Image"
+              src="./AbtArhn.jpg"
+              alt="Aarohan"
               className="h-full w-full lg:h-[400px] lg:w-[590px] rounded-md object-center"
               data-aos="fade-right"
             />
@@ -129,7 +130,7 @@ function Aarohan() {
         <div className="  flex max-w-full flex-col  rounded-md  lg:flex-row-reverse mx-10 my-28 lg:mx-36 lg:my-28 lg:justify-between">
           <div className="h-full w-full lg:h-[400px] lg:w-[590px] ">
             <img
-              src="https://images.pexels.com/photos/16070143/pexels-photo-16070143.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=600&amp;lazy=load"
+              src="/assets/arhnFlying.jpg"
               alt="Image"
               className="h-full w-full lg:h-[400px] lg:w-[590px] rounded-md object-center"
               data-aos="fade-left"

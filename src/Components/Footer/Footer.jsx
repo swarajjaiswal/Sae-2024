@@ -12,7 +12,7 @@ function Footer() {
           <div className="footer-row">
             {/* Logo and Follow Us */}
             <div className="footer-col">
-              <img src="https://swarajjaiswal.github.io/saeevents/logo.png" alt="Logo" className="footer-logo" />
+              <img src="./saelogo.png" alt="Logo" className="footer-logo" />
               <h5 className="footer-head">Follow us</h5>
               <div className="footer-social">
                 <Link target='blank' to="https://www.facebook.com/SAENITD?mibextid=ZbWKwL" className="footer-social-link"><FaFacebook /></Link>
