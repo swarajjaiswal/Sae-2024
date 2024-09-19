@@ -23,7 +23,7 @@ const HomeCarousel = () => {
         loop
         playsInline
         preload="metadata"
-        src="/Carvideo1.mp4"
+        src="/Carvideo1.webm"
       ></video>
 
     </div>
