@@ -9,7 +9,7 @@ const Cardalumni = (props) => {
   return (
     <div className="card-alumni">
         <img src={props.image} alt="" />
-        <h2>{props.name}</h2>
+        <h2 className='px-2'>{props.name}</h2>
         <div className="bottom-Alumni">
             <div className="items-Alumni">
               <div className="icons-Alumni">
