@@ -168,7 +168,7 @@ height: 100%;
 @media screen and (max-width: 1199px){
 
   .card-alumni h2{
-    margin-left: 15vw;
+    /* margin-left: 15vw; */
     margin-top: 12vh;
     font-size: 0.8em;
     }
@@ -198,7 +198,7 @@ height: 100%;
   }
   .card-alumni h2{
     margin-left: 10vw;
-    margin-top: 16vh;
+    margin-top: 13vh;
   }
 }
 @media screen and (max-width: 700px){
